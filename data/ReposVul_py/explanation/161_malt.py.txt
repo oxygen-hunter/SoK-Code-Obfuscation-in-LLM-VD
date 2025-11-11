@@ -1,0 +1,4 @@
+CVE: CVE-2021-3842
+CVE Description: nltk is vulnerable to Inefficient Regular Expression Complexity
+CWE: ['CWE-1333']
+CWE Description: 
